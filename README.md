@@ -28,7 +28,7 @@ Frontend Developer | Undergraduate Computer Engineering 2023 at Universitas Dipo
 
 ![](https://github-contributor-stats.vercel.app/api?username=ezarwiratama&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-#### 🎮 Play Game With Me!
+## 🎮 Play Game With Me!
 
 <img src="https://raw.githubusercontent.com/ezarwiratama/ezarwiratama/output/snake.svg" alt="Snake animation" />
 
