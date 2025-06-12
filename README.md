@@ -1,10 +1,10 @@
 <div align="center">
-<img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB4OGV5a3V3ZzZxZTJiMWNtcGs3amEwMjdsZGd2aWpzZTUyZjNmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g1EGGf9NymomY/giphy.gif"  />
+<img height="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB4OGV5a3V3ZzZxZTJiMWNtcGs3amEwMjdsZGd2aWpzZTUyZjNmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g1EGGf9NymomY/giphy.gif"  />
 </div>
 
 ### 👋 Hi! I'm Ezar Hardin
 
-###### Frontend Developer | Undergraduate Computer Engineering 2023 at Universitas Diponegoro
+Frontend Developer | Undergraduate Computer Engineering 2023 at Universitas Diponegoro
 
 #### 🌐 Socials:
 
@@ -28,9 +28,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=ezarwiratama&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-
-### 🎮 Play Game With Me!
+#### 🎮 Play Game With Me!
 
 <img src="https://raw.githubusercontent.com/ezarwiratama/ezarwiratama/output/snake.svg" alt="Snake animation" />
 
