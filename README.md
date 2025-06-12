@@ -1,5 +1,5 @@
 <div align="center">
-<img height="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB4OGV5a3V3ZzZxZTJiMWNtcGs3amEwMjdsZGd2aWpzZTUyZjNmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g1EGGf9NymomY/giphy.gif"  />
+<img height="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem12OXNnMXI2d2MycmZxdzY4MXozMXNremhuc2p6d25yNjB6dmZ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJMSipnX6SyM6DFofc/giphy.gif"  />
 </div>
 
 ### 👋 Hi! I'm Ezar Hardin
