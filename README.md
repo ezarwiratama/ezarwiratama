@@ -34,6 +34,7 @@ Frontend Developer | Undergraduate Computer Engineering 2023 at Universitas Dipo
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ezarwiratama&icon=6&color=12)](https://visitcount.itsvg.in)
+<!--
+[![](https://visitcount.itsvg.in/api?id=ezarwiratama&icon=6&color=12)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
