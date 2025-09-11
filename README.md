@@ -3,7 +3,7 @@
 <img src="https://media1.tenor.com/m/Cxhbf20E_EoAAAAd/banner.gif" />
 </div>
 
-### 👋 Hi! I'm Ezar Hardin
+### 👋 Hi! I'm Ezar Hardin Wiratama
 
 Frontend Developer | Undergraduate Computer Engineering 2023 at Universitas Diponegoro
 
