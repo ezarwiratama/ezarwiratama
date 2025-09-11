@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem12OXNnMXI2d2MycmZxdzY4MXozMXNremhuc2p6d25yNjB6dmZ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJMSipnX6SyM6DFofc/giphy.gif"  /> -->
-<img src="https://tenor.com/b1616.gif" />
+<img src="https://media1.tenor.com/m/Cxhbf20E_EoAAAAd/banner.gif" />
 </div>
 
 ### 👋 Hi! I'm Ezar Hardin
